@@ -15,6 +15,7 @@ To run various examples created with this framework run the test.py file (should
 Following libraries would be required :
 - Pytorch
 
-To generate the graphs, run the gen_figures_results.py ()
+To generate the graphs, run the gen_figures_results.py (about 1 hour run).
+
 Additional libraries would be needed:
 - Matplotlib
