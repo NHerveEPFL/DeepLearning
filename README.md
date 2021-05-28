@@ -9,9 +9,12 @@ The objective we fixed ourselves is to design a framework capable of:
 - Apply dropout
 - Choose between different optimizers
 - Use a scheduler 
-- 
 
-To run various examples created with this framework run the test.py file.
+To run various examples created with this framework run the test.py file (should run in less than 10 min on the EPFL virtual machine).
 
 Following libraries would be required :
-Pytorch
+- Pytorch
+
+To generate the graphs, run the gen_figures_results.py ()
+Additional libraries would be needed:
+- Matplotlib
