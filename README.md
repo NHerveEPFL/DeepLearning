@@ -10,7 +10,7 @@ The objective we fixed ourselves is to design a framework capable of:
 - Choose between different optimizers
 - Use a scheduler 
 
-To run various examples created with this framework run the test.py file (should run in less than 10 min on the EPFL virtual machine).
+To run various examples created with this framework run the test.py file (Less than 10 min run on the EPFL virtual machine).
 
 Following libraries would be required :
 - Pytorch
